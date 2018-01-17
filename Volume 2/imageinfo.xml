@@ -1,0 +1,172 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/back.jpg" filesize="25620" filedate="2010-08-10 16:56:13" width="480px" height="720px">
+</image>
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/cover.jpg" filesize="41279" filedate="2010-08-10 16:42:19" width="494px" height="720px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/logo.png" filesize="1905" filedate="2012-08-11 12:58:13" width="165px" height="53px">
+</image>
+<image path="images/p000-0.jpg" filesize="48281" filedate="2012-08-11 13:03:08" width="427px" height="553px">
+</image>
+<image path="images/p000-1.jpg" filesize="61117" filedate="2012-08-11 13:04:51" width="427px" height="561px">
+</image>
+<image path="images/p508.jpg" filesize="65972" filedate="2012-11-23 20:18:45" width="720px" height="485px">
+</image>
+<image path="images/p516.jpg" filesize="64171" filedate="2012-11-24 20:36:43" width="720px" height="442px">
+</image>
+<image path="images/p524.jpg" filesize="94445" filedate="2012-11-24 20:38:51" width="491px" height="720px">
+</image>
+<image path="images/p534.jpg" filesize="73910" filedate="2012-11-24 20:34:53" width="458px" height="720px">
+</image>
+<image path="images/p540.jpg" filesize="69034" filedate="2012-11-24 20:41:10" width="720px" height="427px">
+</image>
+<image path="images/p546.jpg" filesize="73015" filedate="2012-11-24 20:43:25" width="720px" height="427px">
+</image>
+<image path="images/p554.jpg" filesize="97605" filedate="2013-01-15 19:46:32" width="720px" height="423px">
+</image>
+<image path="images/p562.jpg" filesize="98727" filedate="2013-01-15 19:48:26" width="720px" height="466px">
+</image>
+<image path="images/p570.jpg" filesize="78288" filedate="2013-01-19 06:24:56" width="720px" height="436px">
+</image>
+<image path="images/p578.jpg" filesize="88452" filedate="2013-01-15 19:50:30" width="720px" height="417px">
+</image>
+<image path="images/p586.jpg" filesize="82383" filedate="2013-01-15 20:21:30" width="720px" height="426px">
+</image>
+<image path="images/p594.jpg" filesize="62997" filedate="2013-01-15 20:24:29" width="720px" height="421px">
+</image>
+<image path="images/p602.jpg" filesize="87119" filedate="2013-01-15 20:27:15" width="720px" height="423px">
+</image>
+<image path="images/p610.jpg" filesize="77273" filedate="2013-01-15 20:30:08" width="451px" height="720px">
+</image>
+<image path="images/p618.jpg" filesize="82393" filedate="2013-01-15 20:33:19" width="449px" height="720px">
+</image>
+<image path="images/p626.jpg" filesize="68390" filedate="2013-01-15 20:36:55" width="451px" height="720px">
+</image>
+<image path="images/p634.jpg" filesize="82720" filedate="2013-01-17 20:11:19" width="453px" height="720px">
+</image>
+<image path="images/p640.jpg" filesize="79284" filedate="2013-01-17 20:13:06" width="431px" height="720px">
+</image>
+<image path="images/p650.jpg" filesize="69143" filedate="2013-01-17 20:15:25" width="434px" height="720px">
+</image>
+<image path="images/p656-1.jpg" filesize="35240" filedate="2013-01-17 20:19:06" width="422px" height="297px">
+</image>
+<image path="images/p656-2.jpg" filesize="35028" filedate="2013-01-17 20:21:09" width="420px" height="292px">
+</image>
+<image path="images/p664-1.jpg" filesize="27008" filedate="2013-01-17 20:24:49" width="418px" height="310px">
+</image>
+<image path="images/p664-2.jpg" filesize="34818" filedate="2013-01-17 20:26:53" width="415px" height="303px">
+</image>
+<image path="images/p670.jpg" filesize="71042" filedate="2013-01-17 20:31:35" width="720px" height="431px">
+</image>
+<image path="images/p678.jpg" filesize="56717" filedate="2013-01-17 20:33:30" width="720px" height="429px">
+</image>
+<image path="images/p686.jpg" filesize="97630" filedate="2013-01-17 20:57:13" width="720px" height="433px">
+</image>
+<image path="images/p692.jpg" filesize="70108" filedate="2013-01-18 19:13:58" width="720px" height="437px">
+</image>
+<image path="images/p700.jpg" filesize="79896" filedate="2013-01-18 19:16:52" width="720px" height="429px">
+</image>
+<image path="images/p706.jpg" filesize="77250" filedate="2013-01-18 19:19:15" width="720px" height="475px">
+</image>
+<image path="images/p708.jpg" filesize="92279" filedate="2013-01-18 19:25:03" width="720px" height="504px">
+</image>
+<image path="images/p714.jpg" filesize="67996" filedate="2013-01-18 19:30:00" width="435px" height="720px">
+</image>
+<image path="images/p722.jpg" filesize="78516" filedate="2013-01-18 19:33:04" width="720px" height="480px">
+</image>
+<image path="images/p728-1.jpg" filesize="23255" filedate="2013-01-25 20:19:06" width="329px" height="420px">
+</image>
+<image path="images/p728-2.jpg" filesize="15852" filedate="2013-01-25 20:20:35" width="334px" height="420px">
+</image>
+<image path="images/p738.jpg" filesize="79997" filedate="2013-01-18 19:37:35" width="720px" height="428px">
+</image>
+<image path="images/p742.jpg" filesize="64276" filedate="2013-01-18 19:40:11" width="720px" height="431px">
+</image>
+<image path="images/p750.jpg" filesize="62197" filedate="2013-01-18 19:43:02" width="720px" height="426px">
+</image>
+<image path="images/p756.jpg" filesize="72100" filedate="2013-01-18 19:45:50" width="720px" height="432px">
+</image>
+<image path="images/p764.jpg" filesize="59484" filedate="2013-01-18 19:50:36" width="720px" height="425px">
+</image>
+<image path="images/p772.jpg" filesize="68891" filedate="2013-01-19 15:43:07" width="433px" height="720px">
+</image>
+<image path="images/p780.jpg" filesize="94625" filedate="2013-01-19 15:45:13" width="456px" height="720px">
+</image>
+<image path="images/p788.jpg" filesize="53106" filedate="2013-01-19 15:49:06" width="720px" height="431px">
+</image>
+<image path="images/p796.jpg" filesize="81947" filedate="2013-01-19 15:52:05" width="720px" height="452px">
+</image>
+<image path="images/p804.jpg" filesize="95244" filedate="2013-01-19 15:54:23" width="720px" height="430px">
+</image>
+<image path="images/p812.jpg" filesize="107461" filedate="2013-01-19 15:56:16" width="463px" height="720px">
+</image>
+<image path="images/p820.jpg" filesize="114593" filedate="2013-01-19 15:58:56" width="720px" height="434px">
+</image>
+<image path="images/p826-1.jpg" filesize="27670" filedate="2013-01-19 16:03:20" width="420px" height="288px">
+</image>
+<image path="images/p826-2.jpg" filesize="28266" filedate="2013-01-19 16:05:30" width="420px" height="285px">
+</image>
+<image path="images/p836-1.jpg" filesize="38121" filedate="2013-01-19 16:08:50" width="420px" height="287px">
+</image>
+<image path="images/p836-2.jpg" filesize="27135" filedate="2013-01-19 16:14:04" width="420px" height="295px">
+</image>
+<image path="images/p844-1.jpg" filesize="37722" filedate="2013-01-21 21:37:14" width="420px" height="310px">
+</image>
+<image path="images/p844-2.jpg" filesize="40591" filedate="2013-01-21 21:40:17" width="420px" height="311px">
+</image>
+<image path="images/p852.jpg" filesize="90279" filedate="2013-01-21 21:44:03" width="720px" height="429px">
+</image>
+<image path="images/p858.jpg" filesize="96447" filedate="2013-01-21 21:46:26" width="720px" height="433px">
+</image>
+<image path="images/p868-1.jpg" filesize="32317" filedate="2013-01-21 21:49:17" width="420px" height="294px">
+</image>
+<image path="images/p868-2.jpg" filesize="24486" filedate="2013-01-21 21:51:18" width="420px" height="302px">
+</image>
+<image path="images/p878-1.jpg" filesize="23916" filedate="2013-01-22 16:37:42" width="420px" height="311px">
+</image>
+<image path="images/p878-2.jpg" filesize="38867" filedate="2013-01-22 16:39:28" width="420px" height="294px">
+</image>
+<image path="images/p886.jpg" filesize="68683" filedate="2013-01-21 21:55:30" width="720px" height="433px">
+</image>
+<image path="images/p888.png" filesize="68686" filedate="2013-01-26 07:13:36" width="566px" height="720px">
+</image>
+<image path="images/p888h.png" filesize="463814" filedate="2013-01-26 07:12:52" width="2048px" height="2607px">
+</image>
+<image path="images/p892-1.jpg" filesize="27868" filedate="2013-01-22 16:41:51" width="420px" height="281px">
+</image>
+<image path="images/p892-2.jpg" filesize="21752" filedate="2013-01-24 19:51:25" width="420px" height="288px">
+</image>
+<image path="images/p902.jpg" filesize="99267" filedate="2013-01-22 18:47:37" width="432px" height="720px">
+</image>
+<image path="images/p906.jpg" filesize="98428" filedate="2013-01-24 19:54:30" width="720px" height="486px">
+</image>
+<image path="images/p918.jpg" filesize="117977" filedate="2013-01-24 19:57:22" width="499px" height="720px">
+</image>
+<image path="images/p922.jpg" filesize="92439" filedate="2013-01-24 20:00:04" width="720px" height="439px">
+</image>
+<image path="images/p930.jpg" filesize="66550" filedate="2013-01-24 20:03:44" width="720px" height="434px">
+</image>
+<image path="images/p938.jpg" filesize="63388" filedate="2013-01-25 19:59:47" width="456px" height="720px">
+</image>
+<image path="images/p946-1.jpg" filesize="80860" filedate="2013-01-25 20:03:17" width="450px" height="720px">
+</image>
+<image path="images/p946-2.jpg" filesize="80232" filedate="2013-01-25 20:05:39" width="434px" height="720px">
+</image>
+<image path="images/p962-1.jpg" filesize="39356" filedate="2013-01-25 20:09:46" width="420px" height="299px">
+</image>
+<image path="images/p962-2.jpg" filesize="29503" filedate="2013-01-25 20:12:11" width="420px" height="301px">
+</image>
+<image path="images/p968.jpg" filesize="81462" filedate="2013-01-25 20:14:20" width="720px" height="433px">
+</image>
+<image path="images/p972.jpg" filesize="73304" filedate="2013-01-25 20:17:03" width="433px" height="720px">
+</image>
+<image path="images/spines.jpg" filesize="34788" filedate="2010-08-10 17:00:32" width="313px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="17125" filedate="2012-11-23 20:09:19" width="427px" height="720px">
+</image>
+</images>
